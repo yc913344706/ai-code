@@ -3,3 +3,10 @@ numpy
 matplotlib
 tensorflow
 scikit-learn
+ipympl
+networkx
+pydot
+graphviz
+pydotplus
+pandas
+xgboost
