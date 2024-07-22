@@ -10,3 +10,8 @@ graphviz
 pydotplus
 pandas
 xgboost
+transformers[sentencepiece]
+tf-keras
+datasets[audio]
+gradio
+socksio
