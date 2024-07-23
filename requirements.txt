@@ -1,4 +1,6 @@
 jupyter
+
+# Meachine Learning
 numpy
 matplotlib
 tensorflow
@@ -10,8 +12,13 @@ graphviz
 pydotplus
 pandas
 xgboost
+
+# HuggingFace: Transformers
 transformers[sentencepiece]
 tf-keras
+
+# HuggingFace: ASR
 datasets[audio]
 gradio
 socksio
+evaluate
