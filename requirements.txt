@@ -22,3 +22,8 @@ datasets[audio]
 gradio
 socksio
 evaluate
+jiwer
+
+torch
+torchvision
+transformers[torch]
